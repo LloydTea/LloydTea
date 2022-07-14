@@ -1,6 +1,6 @@
 ## Lloyd Gbenebitse-Daniel
 
-I am a visionary, high-performing, diligent project manager(web designer and developer) with 6 years of experience, consistently ensuring the development of high-end responsive Web Applications.
+I am a high-performing, diligent project manager(web designer and developer) with 6 years of experience, consistently ensuring the development of high-end responsive Web Applications.
 
 - 🫱🏾‍🫲🏼 I'm interested in collaborating on any projects on Drupal, Laravel and React.js
 
