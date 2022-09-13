@@ -1,9 +1,19 @@
 ## Lloyd Gbenebitse-Daniel
 
-I am a high-performing, diligent front-end developer, consistently ensuring the development of high-end responsive websites that look good on every device and also cater to the core values of every client.
+I am a currently a diligent front-end developer, striving to be a Data Scientist And A Devops Engineer.
 
-- 🫱🏾‍🫲🏼 I'm interested in collaborating on any projects related to Data Science and Analysis, Drupal, Laravel, Javascript and React.js
+- 🫱🏾‍🫲🏼 I'm interested in collaborating on any projects on Drupal, Laravel and React.js
 
-- <a href="linkedin.com/in/lloydtea-website" target="blank"><img src="https://github.com/LloydTea/Who-I-Am/blob/main/Assets/Lloyd_Tea-27.png?raw=true" width="20px"> linkedin.com/in/lloydtea-website</a>
+- <a href="linkedin.com/in/lloydtea-website" target="blank"><img src="https://lloyd.funnelignition.com/wp-content/uploads/2022/09/linkedin.png" width="20px"> linkedin.com/in/lloydtea-website</a>
 
-- <a href="mailto:lloydteawork@gmail.com" target="blank"><img src="https://github.com/LloydTea/Who-I-Am/blob/main/Assets/Lloyd_Tea-2.png?raw=true" width="20px"> lloydteawork@gmail.com</a>
+- <a href="mailto:lloydteawork@gmail.com" target="blank"><img src="https://lloyd.funnelignition.com/wp-content/uploads/2022/09/email_address.png" width="20px"> lloydteawork@gmail.com</a>
+
+- <a href="lloyd.funnelignition.com" target="blank"><img src="https://lloyd.funnelignition.com/wp-content/uploads/2022/09/website.png" width="20px"> lloyd.funnelignition.com</a>
+
+##
+      _      _      ______     _______ _______ ______          
+     | |    | |    / __ \ \   / /  __ \__   __|  ____|   /\    
+     | |    | |   | |  | \ \_/ /| |  | | | |  | |__     /  \   
+     | |    | |   | |  | |\   / | |  | | | |  |  __|   / /\ \  
+     | |____| |___| |__| | | |  | |__| | | |  | |____ / ____ \ 
+     |______|______\____/  |_|  |_____/  |_|  |______/_/    \_\
