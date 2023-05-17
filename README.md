@@ -8,7 +8,7 @@ I am a currently a diligent front-end developer, striving to be a Data Scientist
 
 - <a href="mailto:lloydteawork@gmail.com" target="blank"><img src="https://lloyd.funnelignition.com/wp-content/uploads/2022/09/email_address.png" width="20px"> lloydteawork@gmail.com</a>
 
-- <a href="lloydtea.pro" target="blank"><img src="https://lloyd.funnelignition.com/wp-content/uploads/2022/09/website.png" width="20px"> lloydtea.pro</a>
+- <a href="https://lloydtea.pro" target="blank"><img src="https://lloyd.funnelignition.com/wp-content/uploads/2022/09/website.png" width="20px"> lloydtea.pro</a>
 
 ##
       _      _      ______     _______ _______ ______          
