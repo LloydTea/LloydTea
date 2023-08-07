@@ -1,6 +1,6 @@
 ## Lloyd Gbenebitse-Daniel
 
-I am a currently a diligent front-end developer, striving to be a Data Scientist And A Devops Engineer.
+I'm a diligent front-end developer, striving to be a FullStack And Devops Engineer.
 
 - 🫱🏾‍🫲🏼 I'm interested in collaborating on any projects on Drupal, Laravel and React.js
 
